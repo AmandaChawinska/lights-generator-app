@@ -9,9 +9,6 @@ function App() {
 <Counter text={'rows'} count={0}/>
       <Counter text={'columns'} count={0}/>
 </nav>
-<div>
-  <SingleLight />
-</div>
     </div>
   ); 
 }
