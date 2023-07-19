@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import {Counter} from "./components/Counter";
+import { SingleLight } from "./components/SingleLight";
 import { Text } from "./components/Text";
 import {Grid} from "./components/Grid";
 
