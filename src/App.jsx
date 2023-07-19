@@ -55,8 +55,8 @@ onDecrement={handleDecrementRow}
 </nav>
 <Grid columns={columns}>
 
-  {lights.map((value, index) => {
-return <SingleLight key={id} />;
+  {lights.map((value, idx) => {
+return <SingleLight key={idx} />;
   })}
   </Grid>
 
