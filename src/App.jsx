@@ -1,5 +1,6 @@
 import "./App.css";
 import {Counter} from "./components/Counter";
+import { SingleLight } from "./components/SingleLight";
 
 function App() {
   return (
